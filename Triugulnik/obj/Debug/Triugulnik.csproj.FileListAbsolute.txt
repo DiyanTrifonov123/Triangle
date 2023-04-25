@@ -1,0 +1,8 @@
+E:\Programming\Triugulnik\Triugulnik\bin\Debug\Triugulnik.exe.config
+E:\Programming\Triugulnik\Triugulnik\bin\Debug\Triugulnik.exe
+E:\Programming\Triugulnik\Triugulnik\bin\Debug\Triugulnik.pdb
+E:\Programming\Triugulnik\Triugulnik\obj\Debug\Triugulnik.csproj.AssemblyReference.cache
+E:\Programming\Triugulnik\Triugulnik\obj\Debug\Triugulnik.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Triugulnik\Triugulnik\obj\Debug\Triugulnik.csproj.CoreCompileInputs.cache
+E:\Programming\Triugulnik\Triugulnik\obj\Debug\Triugulnik.exe
+E:\Programming\Triugulnik\Triugulnik\obj\Debug\Triugulnik.pdb
